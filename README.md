@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! 👋
+Incoming uni student, pursuing an international career in research regarding computational neuroscience, education, machine learning, and Chinese studies.
 
 <!--
 **skyebel/skyebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
