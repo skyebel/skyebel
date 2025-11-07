@@ -1,4 +1,4 @@
-## Hello! 👋
+## Welcome! 👋
 Incoming uni student, pursuing an international career in research regarding computational neuroscience, machine learning, , education, and Chinese studies.
 
 <!--
