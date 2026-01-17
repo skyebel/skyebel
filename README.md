@@ -1,6 +1,5 @@
 ## Welcome! 👋
-Incoming uni student, pursuing an international career in research regarding computational neuroscience, machine learning, , education, and Chinese studies.
-
+Incoming uni student, pursuing an international career in research regarding computational neuroscience (focus on neurodegenerative diseases and/or neuroscience-inspired techniques for bettering AI models), machine learning (focus on deep learning), education, and Chinese studies.
 <!--
 **skyebel/skyebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
