@@ -1,5 +1,5 @@
 ## Welcome! 👋
-Uni student pursuing an international career in research regarding computational neuroscience (focus on neurodegenerative diseases, biological and artificial neural networks, neural circuitry, and/or neuro-inspired AI), machine learning (focus on deep learning, reinforcement learning), education, and Chinese studies.
+Uni student pursuing an international career in research regarding computational neuroscience (focus on neurodegenerative diseases, biological and artificial neural networks, neural circuitry, and/or neuro-inspired AI), machine learning (focus on deep learning, reinforcement learning), education, and Chinese studies. Committed to open-source research!
 
 
 <!--
