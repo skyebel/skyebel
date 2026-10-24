@@ -1,5 +1,5 @@
 ## Welcome! 👋
-Second-year undergraduate student @UC San Diego pursuing an international career in research regarding computational neuroscience and neuro-AI, with other interests in education and Chinese studies.
+Second-year undergraduate student @UC San Diego pursuing an international career in research regarding computational neuroscience and neuro-AI, with other pursuits in education and Chinese studies.
 
 Interests: Neurodegenerative Diseases, Neural Circuitry, Deep Learning, Reinforcement Learning, Biologically-Plausible AI Models, Representational Alignment, Mechanistic Interpretability
 <!--
