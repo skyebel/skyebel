@@ -1,7 +1,7 @@
 ## Welcome! 👋
-Uni student pursuing an international career in research regarding computational neuroscience (focus on neurodegenerative diseases, biological and artificial neural networks, neural circuitry, and/or neuro-inspired AI), machine learning (focus on deep learning, reinforcement learning), education, and Chinese studies. Committed to open-source research!
+Second-year undergraduate student @UC San Diego pursuing an international career in research regarding computational neuroscience and neuro-AI, with other interests in education and Chinese studies.
 
-
+Interests: Neurodegenerative Diseases, Neural Circuitry, Deep Learning, Reinforcement Learning, Biologically-Plausible AI Models, Representational Alignment, Mechanistic Interpretability
 <!--
 **skyebel/skyebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
