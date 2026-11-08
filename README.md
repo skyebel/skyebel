@@ -1,7 +1,7 @@
 ## Welcome! 👋
 Second-year undergraduate student @UC San Diego pursuing an international career in research regarding computational neuroscience and neuro-AI, with other pursuits in education and Chinese studies.
 
-Interests: Neurodegenerative Diseases, Neural Circuitry, Deep Learning, Reinforcement Learning, Biologically-Plausible AI Models, Representational Alignment, Mechanistic Interpretability
+Interests: Brain-Computer Interfaces, Computational Neuroscience, Neural Encoding, Representational Alignment, Biologically-Plausible AI, Reinforcement Learning, Mechanistic Interpretability
 <!--
 **skyebel/skyebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
